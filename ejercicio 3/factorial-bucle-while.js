@@ -13,4 +13,4 @@ function factorial(num) {
     }
     console.log(result);
 }
-factorial(1);
+factorial(5);
