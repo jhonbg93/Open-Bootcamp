@@ -1,0 +1,11 @@
+{
+  "name": "sesion-09",
+  "version": "1.0.0",
+  "description": "Gestion de logs con node JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jhon Betancourth",
+  "license": "ISC"
+}
