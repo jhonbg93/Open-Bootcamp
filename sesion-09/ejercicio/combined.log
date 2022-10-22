@@ -1,0 +1,2 @@
+{"level":"info","message":"Esta linea sera ejecutada si todo esta correcta","service":"user-service"}
+{"level":"error","message":"Error: showError function","service":"user-service"}
