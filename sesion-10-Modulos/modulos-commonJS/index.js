@@ -22,6 +22,6 @@
 
 //Podemos importar de otra manera modulos de con ES6
 
-const {suma, resta} = require("./modulos/matematicas");
+const {suma, resta} = require("./matematicas");
 console.log(suma(5, 5));
 console.log(resta(10, 5));
