@@ -1,0 +1,28 @@
+div {
+    border: 1px solid grey;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+h3 {
+    font-size: 40px;
+}
+
+.static {
+    /*Esta posicion siempre estara por difecto. no deja reacomodar la posicion de las cajas "no deja cambiar la posicion"*/
+    border: 1px solid gray;
+    padding: 5px;
+}
+
+.relative {
+    position: relative;
+    left: 80px;
+    margin: 10px;
+}
+
+.fixed {
+    position: fixed;
+    background-color: rgb(52, 52, 192);
+    
+}

@@ -1,0 +1,35 @@
+section{
+    display: flex;
+    background-color: blue;
+    justify-content: space-around;
+    height: 300px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.div-1{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    border-radius: 2px;
+    border: 2px solid black;
+    margin-top: 5px;
+}
+
+.div-2{
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+    border-radius: 2px;
+    border: 2px solid black;
+    margin-top: 5px;
+}
+
+.div-3{
+    background-color: blueviolet;
+    height: 100px;
+    width: 100px;
+    border-radius: 2px;
+    border: 2px solid black;
+    margin-top: 5px;
+}
